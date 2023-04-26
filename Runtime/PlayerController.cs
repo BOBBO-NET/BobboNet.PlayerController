@@ -2,8 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Zenject;
+using BobboNet;
+using BobboNet.Extensions;
+using BobboNet.PlayerBehaviours;
 
-namespace BobboNet.PlayerController
+namespace BobboNet.Player
 {
     [RequireComponent(typeof(CharacterController))]
     public class PlayerController : MonoBehaviour

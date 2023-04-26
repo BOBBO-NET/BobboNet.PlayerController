@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Zenject;
+using BobboNet.Player;
 
-namespace BobboNet.PlayerController
+namespace BobboNet.PlayerBehaviours
 {
     public abstract class PlayerBehaviour : IInitializable
     {

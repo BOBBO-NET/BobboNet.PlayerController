@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Zenject;
 
-namespace BobboNet.PlayerController
+namespace BobboNet.Player
 {
     [CreateAssetMenu(fileName = "PlayerControllerInstaller", menuName = "Installers/PlayerControllerInstaller")]
     public class PlayerControllerInstaller : ScriptableObjectInstaller<PlayerControllerInstaller>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace BobboNet.PlayerController
+namespace BobboNet.Player
 {
     public enum GroundedState
     {

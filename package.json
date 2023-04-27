@@ -9,6 +9,6 @@
   "dependencies": {
     "com.svermeulen.extenject": "9.2.0",
     "net.bobbo.multi-lock": "0.0.1",
-    "net.bobbo.vector3-extensions": "0.0.1"
+    "net.bobbo.extensions.vector3": "0.0.1"
   }
 }

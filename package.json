@@ -1,13 +1,13 @@
 {
   "name": "net.bobbo.player-controller",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Player Controller",
   "author": {
     "name": "BOBBO-NET",
     "url": "https://bobbo.net"
   },
   "dependencies": {
-    "com.svermeulen.extenject": "9.2.0",
+    "net.bobbo.extenject": "9.3.1",
     "net.bobbo.multi-lock": "0.0.1",
     "net.bobbo.extensions.vector3": "0.0.1"
   }
